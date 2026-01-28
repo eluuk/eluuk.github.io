@@ -61,7 +61,7 @@ Description with link:
 
 ---
 
-## Project Title 5
+## Rahvusvaheline konverents, teaduslik konverents
 
 ![Image placeholder](path-to-image.jpg)
 ![Image placeholder](path-to-image-2.jpg)
@@ -72,17 +72,19 @@ Description with link:
 
 **Participating artist(s):** Name(s)  
 **Materials:** List materials  
-**Year:** 20XX
+**Year:** 2009‒2015
 
 ---
 
-## Project Title 6
+## Superlative nothing
 
-Description with link:  
-[https://example.com](https://example.com)
+![Superlative nothing](sn.jpg)
+![Tomar](tomar1.jpg)
+![Tomar 0](tomar2.jpg)
 
-**Participating artist(s):** Name(s)  
-**Materials:** List materials  
-**Year:** 20XX
+Conceptual art. Text art
+
+**Materials:** Text, badge  
+**Year:** 2008 (Celje, Slovenia), 2010 (remake; Tomar, Portugal)
 
 ---
