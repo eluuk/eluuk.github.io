@@ -4,17 +4,17 @@
 
 ---
 
-# Isikunäitused (koos c:ga (Tanel Rander)):
+## Isikunäitused (koos c:ga (Tanel Rander)):
 
-— "uriaadi lõpp" (Y-galerii 2010)
-[uriaadi lõpp]http://chnldr.blogspot.com/2010/12/erkki-luuk-c-uriaadi-lopp-keldres-v.html
+— "uriaadi lõpp" (Y-galerii 2010)  
+[uriaadi lõpp](http://chnldr.blogspot.com/2010/12/erkki-luuk-c-uriaadi-lopp-keldres-v.html)
 
-— "kesktalvine hnott" (Tallinna Linnagalerii 2010)
+— "kesktalvine hnott" (Tallinna Linnagalerii 2010)  
 [kesktalvine hnott](http://chnldr.blogspot.com/2010/12/c-erkki-luuk-kesktalvine-hnott-on.html)
 
 ---
 
-## Project Title 1
+### Project Title 1
 
 ![Image placeholder](path-to-image-1.jpg)
 ![Image placeholder](path-to-image-2.jpg)
