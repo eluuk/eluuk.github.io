@@ -4,6 +4,16 @@
 
 ---
 
+# Isikunäitused (koos c:ga (Tanel Rander)):
+
+— "uriaadi lõpp" (Y-galerii 2010)
+[uriaadi lõpp]http://chnldr.blogspot.com/2010/12/erkki-luuk-c-uriaadi-lopp-keldres-v.html
+
+— "kesktalvine hnott" (Tallinna Linnagalerii 2010)
+[kesktalvine hnott](http://chnldr.blogspot.com/2010/12/c-erkki-luuk-kesktalvine-hnott-on.html)
+
+---
+
 ## Project Title 1
 
 ![Image placeholder](path-to-image-1.jpg)
@@ -82,7 +92,7 @@ Description with link:
 ![Tomar](tomar1.jpg)
 ![Tomar 0](tomar2.jpg)
 
-Conceptual art. Text art
+Conceptual text art
 
 **Materials:** Text, badge  
 **Year:** 2008 (Celje, Slovenia), 2010 (remake; Tomar, Portugal)
