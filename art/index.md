@@ -74,6 +74,8 @@ http://www.indrekgrigor.com/wp-content/uploads/2017/02/Miksi_pole_olulisem_kui_s
 
 ### &nbsp; &nbsp; [Doings or Not](https://doingsornot.blogspot.com/2009/08/erkki-luuk-2009.html). Hobusepea 2009, Tallinn
 
+&nbsp; &nbsp; ***tekstikunst***
+
 ————————
 
 ### &nbsp; &nbsp; [Doings or Not](https://doingsornot.blogspot.com/2008/06/erkki-luuk-superlative-nothing-2008.html). Vzigalica, Ljubljana, Sloveenia 2008 ([remake](tomar1.jpg) Tomar, Portugal 2010)
