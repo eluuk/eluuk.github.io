@@ -80,7 +80,7 @@ http://www.indrekgrigor.com/wp-content/uploads/2017/02/Miksi_pole_olulisem_kui_s
 
 ### &nbsp; &nbsp; [Doings or Not](https://doingsornot.blogspot.com/2008/06/erkki-luuk-superlative-nothing-2008.html). Vzigalica, Ljubljana, Sloveenia 2008 ([remake](tomar1.jpg) Tomar, Portugal 2010)
 
-&nbsp; &nbsp; ***[tekstikunst](sn.jpg)***
+&nbsp; &nbsp; ***tekstikunst***
 
 &nbsp; &nbsp; [ettekanne](https://www.youtube.com/watch?v=yv9hsuke3UE)
 
