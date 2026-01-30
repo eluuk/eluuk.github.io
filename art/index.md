@@ -97,7 +97,7 @@ http://www.indrekgrigor.com/wp-content/uploads/2017/02/Miksi_pole_olulisem_kui_s
 
 ————————
 
-### &nbsp; &nbsp; [Rahvusvaheline konverents, teaduslik konverents](https://et.wikipedia.org/wiki/Rahvusvaheline_konverents,_teaduslik_konverents). Tartu ülikool 2009‒2015 (erinevad saalid ja auditooriumid)
+### &nbsp; &nbsp; [Rahvusvaheline konverents, teaduslik konverents](https://et.wikipedia.org/wiki/Rahvusvaheline_konverents,_teaduslik_konverents). Tartu ülikool 2009‒2015 (erinevad ruumid)
 
 &nbsp; &nbsp; ***grupietendus***
 
