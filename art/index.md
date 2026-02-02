@@ -2,7 +2,7 @@
 
 **transdistsiplinaarne kunstnik (tekst, installatsioon, etendus, maal, heli, video)**
 
-—————————————————————————————————
+**—————————————————————————————————**
 
 ## Isikunäitused (koos c:ga — Tanel Rander)
 
@@ -24,7 +24,7 @@
 
 &nbsp; &nbsp; ***installatsioon, etendus***
 
-—————————————————————————————————
+**—————————————————————————————————**
 
 ## Grupinäitused
 
@@ -93,7 +93,7 @@ http://www.indrekgrigor.com/wp-content/uploads/2017/02/Miksi_pole_olulisem_kui_s
 &nbsp; &nbsp; — graafiline leht "[luuletus](luuletus.jpg)"  
 &nbsp; &nbsp; — [grafiti](https://www.folklore.ee/Graffiti/grafiti_eraldi?id=1) ("miski pole olulisem kui see lause") [müüril](https://commons.wikimedia.org/wiki/File:Miski_pole_olulisem_kui_see_lause_-_Rael_Artel_Gallery_graffiti_Tartus_Kompanii_t%C3%A4naval,_27._oktoober_2011.jpg)
 
-—————————————————————————————————
+**—————————————————————————————————**
 
 ## Etendused
 
@@ -191,7 +191,7 @@ http://www.indrekgrigor.com/wp-content/uploads/2017/02/Miksi_pole_olulisem_kui_s
 
 &nbsp; &nbsp; ***monoetendus***
 
-—————————————————————————————————
+**—————————————————————————————————**
 
 ## Kureerimine:
 
