@@ -6,13 +6,13 @@
 
 ## Isikunäitused (koos c:ga — Tanel Rander)
 
-***————————***
+*————————*
 
 ### &nbsp; &nbsp; [uriaadi lõpp](http://chnldr.blogspot.com/2010/12/erkki-luuk-c-uriaadi-lopp-keldres-v.html). Y-galerii 2010
 
 &nbsp; &nbsp; ***[kohaspetsiifiline](kaabus1.jpg) installatiivne keskkond***  
 
-***————————***
+*————————*
 
 ### &nbsp; &nbsp; [kesktalvine hnott](http://chnldr.blogspot.com/2010/12/c-erkki-luuk-kesktalvine-hnott-on.html). [Tallinna](m2rrad-0.jpg) [Linnagalerii](m2rrad-2.jpg) 2010
 
