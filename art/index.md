@@ -6,7 +6,7 @@
 
 ## Isikunäitused (koos c:ga — Tanel Rander)
 
-**——————————————**
+**———————————————**
 
 ### &nbsp; &nbsp; [uriaadi lõpp](http://chnldr.blogspot.com/2010/12/erkki-luuk-c-uriaadi-lopp-keldres-v.html). Y-galerii 2010
 
@@ -28,7 +28,7 @@
 
 ## Grupinäitused
 
-**——————————————**
+**———————————————**
 
 ### &nbsp; &nbsp; Unistuste linn. Tartu tekstikunst 2002–2015. Tartu Kunstimuuseum 2015
 
@@ -97,7 +97,7 @@ http://www.indrekgrigor.com/wp-content/uploads/2017/02/Miksi_pole_olulisem_kui_s
 
 ## Etendused
 
-**——————————————**
+**———————————————**
 
 ### &nbsp; &nbsp; [Rahvusvaheline konverents, teaduslik konverents](https://et.wikipedia.org/wiki/Rahvusvaheline_konverents,_teaduslik_konverents). Tartu ülikool 2009‒2015 (erinevad ruumid)
 
@@ -195,6 +195,6 @@ http://www.indrekgrigor.com/wp-content/uploads/2017/02/Miksi_pole_olulisem_kui_s
 
 ## Kureerimine:
 
-**——————————————**
+**———————————————**
 
 ### &nbsp; &nbsp; [lack of stimulus](https://kultuur.postimees.ee/241782/eesti-kunstnikud-tekitasid-pariisi-galeriis-skandaali). Kiwa, Taavi Piibemann, Toomas Thetloff, 59 Rivoli, Pariis, 2010
